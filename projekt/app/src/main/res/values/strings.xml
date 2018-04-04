@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accelerometer Project</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="movement_detected">Sudden Movement Detected!</string>
+    <string name="accelerometer_range">accelerometerRange</string>
+</resources>
